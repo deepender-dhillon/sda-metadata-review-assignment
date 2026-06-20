@@ -7,9 +7,10 @@ Quality review and compliance tracking for metadata submissions to the Uttar Pra
 
 ## Live Dashboard URL
 
-> **Status:** Not deployed
+> **Status:** Deployed on streamlit
+> **Dashboard URL:** https://sda-metadata-review-assignment-2ugyuggg9v6vgeabvzmgqe.streamlit.app/
 
-The dashboard (`src/dashboard.py`) is built and tested locally — it runs cleanly and reads live from `data/processed/`, nothing is hardcoded , but it has not been pushed to a public host.
+The dashboard (`src/dashboard.py`) is built and tested locally — it runs cleanly and reads live from `src/processed/`, i have put the dashboard url.
 
 Deploying to Streamlit Community Cloud, Render, etc. requires a GitHub repository connected to a personal account and manual authorisation on the hosting platform's side.
 
