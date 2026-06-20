@@ -1,0 +1,20 @@
+SDA METADATA QUALITY REVIEW - SUMMARY REPORT
+==================================================
+Total submissions reviewed: 25
+Pass all checks: 14 (56%)
+Fail one or more checks: 11 (44%)
+
+Most common issue types:
+  - Data owner missing: 4
+  - DPDP flag inconsistent with classification: 4
+  - Description missing or too short (<20 chars): 2
+  - Record count missing (not a live API dataset): 2
+  - Classification missing or invalid: 2
+  - Invalid last_updated date format: 1
+  - Invalid submitted_on date format: 1
+
+Cross-check against compliance_tracker.csv:
+  - Correctly Approved: 14
+  - Correctly Pending: 11
+  - Potentially mis-approved (flagged by us, tracker says Approved): 0
+  - Potentially ready to approve (passes our checks, tracker says Pending): 0

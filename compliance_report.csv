@@ -1,0 +1,21 @@
+department,datasets_submitted,approved,pending,pct_approved,followup_sent_for_all_pending,pending_no_response_7plus_days
+Basic Education Department,2,0,2,0.0,Yes,Yes
+Energy Department,1,0,1,0.0,Yes,Yes
+Food & Civil Supplies,1,0,1,0.0,Yes,Yes
+Home Department,1,0,1,0.0,Yes,Yes
+Labour Department,1,0,1,0.0,Yes,No
+Women & Child Development,1,0,1,0.0,Yes,Yes
+Health Department,2,1,1,50.0,Yes,Yes
+Agriculture Department,2,1,1,50.0,Yes,Yes
+Transport Department,2,1,1,50.0,Yes,No
+Urban Development Department,2,1,1,50.0,Yes,No
+Higher Education,1,1,0,100.0,N/A,No
+Jal Shakti Department,1,1,0,100.0,N/A,No
+Panchayati Raj Department,1,1,0,100.0,N/A,No
+Finance Department,1,1,0,100.0,N/A,No
+Irrigation Department,1,1,0,100.0,N/A,No
+Environment Department,1,1,0,100.0,N/A,No
+Social Welfare Department,1,1,0,100.0,N/A,No
+Rural Development,1,1,0,100.0,N/A,No
+Revenue Department,1,1,0,100.0,N/A,No
+Stamp & Registration Dept.,1,1,0,100.0,N/A,No

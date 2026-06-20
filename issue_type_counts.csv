@@ -1,0 +1,8 @@
+issue_type,count
+Data owner missing,4
+DPDP flag inconsistent with classification,4
+Description missing or too short (<20 chars),2
+Record count missing (not a live API dataset),2
+Classification missing or invalid,2
+Invalid date format,2
+Data Steward not assigned,1

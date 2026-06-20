@@ -1,0 +1,26 @@
+submission_id,department,review_date,reviewer,metadata_complete,data_owner_present,description_adequate,classification_correct,dpdp_flag_correct,date_format_valid,follow_up_sent,follow_up_date,department_responded,revised_submission_received,final_status
+META-001,Revenue Department,2026-04-07,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-002,Basic Education Department,2026-04-08,Data Analyst,No,No,Yes,Yes,Yes,Yes,Yes,2026-04-09,No,No,Pending - Missing data owner name
+META-003,Basic Education Department,2026-04-08,Data Analyst,No,Yes,No,Yes,Yes,Yes,Yes,2026-04-09,Yes,No,Pending - Description missing; record count missing
+META-004,Health Department,2026-04-09,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-005,Health Department,2026-04-09,Data Analyst,No,Yes,Yes,No,,,Yes,2026-04-10,No,No,Pending - Patient data classified Public; should be Restricted
+META-006,Agriculture Department,2026-04-10,Data Analyst,No,No,Yes,Yes,Yes,Yes,Yes,2026-04-11,Yes,Yes,Approved
+META-007,Agriculture Department,2026-04-10,Data Analyst,No,Yes,Yes,No,No,,Yes,2026-04-11,No,No,Pending - Classification blank; DPDP flag missing for personal data
+META-008,Urban Development Department,2026-04-11,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-009,Urban Development Department,2026-04-11,Data Analyst,No,Yes,Yes,Yes,Yes,Yes,Yes,2026-04-12,Yes,No,Pending - Record count missing
+META-010,Energy Department,2026-04-12,Data Analyst,No,No,Yes,Yes,Yes,No,Yes,2026-04-13,No,No,Pending - Data owner name missing; date format invalid (DD-MM-YYYY)
+META-011,Finance Department,2026-04-13,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-012,Social Welfare Department,2026-04-13,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-013,Home Department,2026-04-14,Data Analyst,No,No,Yes,Yes,Yes,Yes,Yes,2026-04-15,No,No,Pending - Data owner name missing; steward not assigned
+META-014,Jal Shakti Department,2026-04-14,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-015,Women & Child Development,2026-04-15,Data Analyst,No,Yes,Yes,Yes,No,No,Yes,2026-04-16,No,No,Pending - Date format invalid (MM/DD/YYYY); DPDP flag not confirmed
+META-016,Rural Development,2026-04-15,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-017,Transport Department,2026-04-16,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-018,Transport Department,2026-04-16,Data Analyst,No,Yes,No,Yes,Yes,Yes,Yes,2026-04-17,Yes,No,Pending - Description missing
+META-019,Environment Department,2026-04-17,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-020,Food & Civil Supplies,2026-04-17,Data Analyst,No,Yes,Yes,No,No,,Yes,2026-04-18,No,No,Pending - Classification blank; DPDP flag missing for personal data
+META-021,Stamp & Registration Dept.,2026-04-18,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-022,Irrigation Department,2026-04-18,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-023,Higher Education,2026-04-19,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved
+META-024,Labour Department,2026-04-19,Data Analyst,No,No,Yes,Yes,Yes,Yes,Yes,2026-04-20,No,No,Pending - Data owner name missing
+META-025,Panchayati Raj Department,2026-04-20,Data Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,,,,Approved

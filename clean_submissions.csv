@@ -1,0 +1,15 @@
+submission_id,department,dataset_title
+META-001,Revenue Department,Land Records Bhulekh UP
+META-004,Health Department,Health Facility Registry HMIS
+META-006,Agriculture Department,Crop Sowing Estimates
+META-008,Urban Development Department,ULB Property Tax Records
+META-011,Finance Department,State Budget Expenditure IFMS
+META-012,Social Welfare Department,Pension Scheme Beneficiaries
+META-014,Jal Shakti Department,Jal Jeevan Mission Tap Connection Status
+META-016,Rural Development,MNREGS Employment and Payments
+META-017,Transport Department,Vehicle Registration VAHAN
+META-019,Environment Department,Air Quality Monitoring UPPCB
+META-021,Stamp & Registration Dept.,Property Registration Records
+META-022,Irrigation Department,Canal Water Release Data
+META-023,Higher Education,University Exam Results
+META-025,Panchayati Raj Department,Gram Panchayat Asset Register

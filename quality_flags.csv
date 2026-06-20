@@ -1,0 +1,12 @@
+submission_id,department,dataset_title,issues
+META-002,Basic Education Department,School Enrollment Data DISE,Data owner missing
+META-003,Basic Education Department,Mid-Day Meal Attendance,Description missing or too short (<20 chars); Record count missing (not a live API dataset)
+META-005,Health Department,Patient Admission Records District Hospitals,DPDP flag inconsistent with classification
+META-007,Agriculture Department,Farmer Registration PM-KISAN,Classification missing or invalid; DPDP flag inconsistent with classification
+META-009,Urban Development Department,Building Permit Applications,Record count missing (not a live API dataset)
+META-010,Energy Department,UPPCL Consumer Billing Data,Data owner missing; Invalid last_updated date format
+META-013,Home Department,FIR and Crime Statistics,Data owner missing
+META-015,Women & Child Development,Anganwadi Beneficiary Data,DPDP flag inconsistent with classification; Invalid submitted_on date format
+META-018,Transport Department,Driving Licence Records SARATHI,Description missing or too short (<20 chars)
+META-020,Food & Civil Supplies,PDS Beneficiary Records,Classification missing or invalid; DPDP flag inconsistent with classification
+META-024,Labour Department,Contract Labour Registration,Data owner missing
