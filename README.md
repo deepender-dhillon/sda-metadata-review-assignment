@@ -71,20 +71,9 @@ python src/compliance_analysis.py
 
 ---
 
-## How to Run the Dashboard Locally
-
-```bash
-streamlit run src/dashboard.py
-```
-
-Run this command from the project root.
-
-The dashboard uses a relative path to access the `data/` directory and will open at:
-
-```text
-http://localhost:8501
-```
-
+## How to Run the Dashboard 
+Go to the following URL to launch dashbaord deployed on streamlit.
+> **Dashboard URL:** https://sda-metadata-review-assignment-2ugyuggg9v6vgeabvzmgqe.streamlit.app/
 ---
 
 ## Approach to Ambiguous Data Quality Decisions
